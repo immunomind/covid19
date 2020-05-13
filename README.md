@@ -11,10 +11,10 @@ There is no single resource for single-cell or AIRR datasets for COVID-19 patien
 |Immune cell profiling of COVID-19 patients in the recovery stage by single-cell sequencing                                            |AIRR     |Publication|https://www.nature.com/articles/s41421-020-0168-9#data-availability                                |Pending             |Expected to be available|https://doi.org/10.1038/s41421-020-0168-9   |
 
 # Fields
-- Titile
-- Data type
-- Source type
-- Sharing statement
-- BioProject Accession
-- State
-- Paper DOI
+- Title - Article title
+- Data type - AIRR / scRNAseq
+- Source type - Website / Publication
+- Sharing statement - Link to data sharing statement
+- BioProject accession - ID with a link to BioProject accession
+- State - Data is publicly available / Expected to be publicly available
+- Paper DOI - ID with a link to doi.org
