@@ -2,13 +2,14 @@
 There is no single resource for single-cell or AIRR datasets for COVID-19 patients.
 
 # Brief table
-|Title                                                                                                                                 |Data type|
-|--------------------------------------------------------------------------------------------------------------------------------------|---------|
-|The landscape of lung bronchoalveolar immune cells in COVID-19 revealed by single-cell RNA sequencing                                 |AIRR     |
-|B cell clonal expansion and convergent antibody responses to SARS-CoV-2                                                               |AIRR     |
-|Huang, L. et al. Blood single cell immune profiling reveals the interferon-MAPK pathway mediated adaptive immune response for COVID-19|AIRR     |
-|Microsoft and Adaptive Biotechnologies are studying how the human immune system reacts to the coronavirus: MSNBC                      |AIRR     |
-|Immune cell profiling of COVID-19 patients in the recovery stage by single-cell sequencing                                            |AIRR     |
+|State|Article title                                                                                                                         |Data type|
+|-----|--------------------------------------------------------------------------------------------------------------------------------------|---------|
+|:heavy_check_mark: Publicly available|The landscape of lung bronchoalveolar immune cells in COVID-19 revealed by single-cell RNA sequencing                                 |AIRR     |
+|:heavy_check_mark: Publicly available|B cell clonal expansion and convergent antibody responses to SARS-CoV-2                                                               |AIRR     |
+|:o: Expected to be available|Huang, L. et al. Blood single cell immune profiling reveals the interferon-MAPK pathway mediated adaptive immune response for COVID-19|AIRR     |
+|:o: Expected to be available|Microsoft and Adaptive Biotechnologies are studying how the human immune system reacts to the coronavirus: MSNBC                      |AIRR     |
+|:o: Expected to be available|Immune cell profiling of COVID-19 patients in the recovery stage by single-cell sequencing                                            |AIRR     |
+|:o: Expected to be available|New Single-Cell Technologies Help Scientists Understand COVID-19 Disease Progression                                                  |scRNAseq |
 
 # Descriptive table
 - The landscape of lung bronchoalveolar immune cells in COVID-19 revealed by single-cell RNA sequencing
