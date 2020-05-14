@@ -1,0 +1,7 @@
+Title,NA
+Data type,NA
+Source type,NA
+Sharing statement,NA
+BioProject accession,NA
+State,NA
+Paper,NA
