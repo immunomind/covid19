@@ -24,6 +24,7 @@ There is no single resource for single-cell or AIRR datasets for COVID-19 patien
   - **Source type:** Website
   - **Sharing statement:** nan
 <br/>
+
 - <a name="1_long"></a>[Immune cell profiling of COVID-19 patients in the recovery stage by single-cell sequencing](#1_short)
   - **Data state:** :o: Pending
   - **Data type:** AIRR
@@ -33,6 +34,7 @@ There is no single resource for single-cell or AIRR datasets for COVID-19 patien
   - **Source type:** Publication
   - **Sharing statement:** https://www.nature.com/articles/s41421-020-0168-9#data-availability
 <br/>
+
 - <a name="2_long"></a>[Microsoft and Adaptive Biotechnologies are studying how the human immune system reacts to the coronavirus: MSNBC](#2_short)
   - **Data state:** :o: Pending
   - **Data type:** AIRR
@@ -42,6 +44,7 @@ There is no single resource for single-cell or AIRR datasets for COVID-19 patien
   - **Source type:** Website
   - **Sharing statement:** https://www.cnbc.com/2020/03/20/microsoft-adaptive-studying-coronavirus-immune-system-reaction.html
 <br/>
+
 - <a name="3_long"></a>[B cell clonal expansion and convergent antibody responses to SARS-CoV-2](#3_short)
   - **Data state:** :heavy_check_mark: Available
   - **Data type:** AIRR
@@ -51,6 +54,7 @@ There is no single resource for single-cell or AIRR datasets for COVID-19 patien
   - **Source type:** Publication
   - **Sharing statement:** https://www.researchsquare.com/article/rs-27220/v1 
 <br/>
+
 - <a name="4_long"></a>[Single cell immune profiling reveals the interferon-MAPK pathway mediated adaptive immune response for COVID-19](#4_short)
   - **Data state:** :o: Pending
   - **Data type:** AIRR
@@ -60,6 +64,7 @@ There is no single resource for single-cell or AIRR datasets for COVID-19 patien
   - **Source type:** Publication
   - **Sharing statement:** https://www.medrxiv.org/node/73721.external-links.html
 <br/>
+
 - <a name="5_long"></a>[The landscape of lung bronchoalveolar immune cells in COVID-19 revealed by single-cell RNA sequencing](#5_short)
   - **Data state:** :heavy_check_mark: Available
   - **Data type:** AIRR
@@ -69,6 +74,7 @@ There is no single resource for single-cell or AIRR datasets for COVID-19 patien
   - **Source type:** Publication
   - **Sharing statement:** https://www.medrxiv.org/node/72689.external-links.html
 <br/>
+
 - <a name="6_long"></a>[SARS‐CoV‐2 receptor ACE2 and TMPRSS2 are primarily expressed in bronchial transient secretory cells](#6_short)
   - **Data state:** :o: Pending
   - **Data type:** scRNAseq
@@ -78,6 +84,7 @@ There is no single resource for single-cell or AIRR datasets for COVID-19 patien
   - **Source type:** Publication
   - **Sharing statement:** https://www.embopress.org/doi/10.15252/embj.20105114#embj20105114-sec-0019-title
 <br/>
+
 - <a name="7_long"></a>[Single-cell RNA expression profiling of ACE2, the receptor of SARS-CoV-2](#7_short)
   - **Data state:** :heavy_check_mark: Available
   - **Data type:** scRNAseq
@@ -87,6 +94,7 @@ There is no single resource for single-cell or AIRR datasets for COVID-19 patien
   - **Source type:** Publication
   - **Sharing statement:** Used public data
 <br/>
+
 
 
 # Field description
