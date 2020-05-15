@@ -8,7 +8,7 @@ There is no single resource for single-cell or AIRR datasets for COVID-19 patien
 | :o: Expected                 | scRNAseq    | New Single-Cell Technologies Help Scientists Understand COVID-19 Disease Progression                                                   |
 | :o: Expected                 | AIRR        | Immune cell profiling of COVID-19 patients in the recovery stage by single-cell sequencing                                             |
 | :o: Expected                 | AIRR        | Microsoft and Adaptive Biotechnologies are studying how the human immune system reacts to the coronavirus: MSNBC                       |
-| :heavy_check_mark: Available | AIRR        | B cell clonal expansion and convergent antibody responses to SARS-CoV-2                                                                |
+| :heavy_check_mark: Available | AIRR        | [B cell clonal expansion and convergent antibody responses to SARS-CoV-2](#pookie)                                                                |
 | :o: Expected                 | AIRR        | Huang, L. et al. Blood single cell immune profiling reveals the interferon-MAPK pathway mediated adaptive immune response for COVID-19 |
 | :heavy_check_mark: Available | AIRR        | The landscape of lung bronchoalveolar immune cells in COVID-19 revealed by single-cell RNA sequencing                                  |
 | :o: Expected                 | scRNAseq    | SARS‐CoV‐2 receptor ACE2 and TMPRSS2 are primarily expressed in bronchial transient secretory cells                                    |
@@ -42,7 +42,7 @@ There is no single resource for single-cell or AIRR datasets for COVID-19 patien
   - **Paper DOI:** nan
   - **Source type:** Website
   - **Sharing statement:** https://www.cnbc.com/2020/03/20/microsoft-adaptive-studying-coronavirus-immune-system-reaction.html
-- B cell clonal expansion and convergent antibody responses to SARS-CoV-2
+- <a name="pookie"></a>B cell clonal expansion and convergent antibody responses to SARS-CoV-2
   - **Data state:** :heavy_check_mark: Available
   - **Article title:** B cell clonal expansion and convergent antibody responses to SARS-CoV-2
   - **Data type:** AIRR
