@@ -1,7 +1,12 @@
 # COVID19 datasets
 🦠 List of publicly available datasets with single-cell (scRNAseq) andimmune repertoire (AIRR / RepSeq / immunosequencing) data of COVID-19 patients with SARS-CoV-2 infection. The repository is regularly updated with the community help.
-:star: The project is open to any kind of contribution. If you want to add a new publicly available dataset, publish your own data, make an update or request something welcome to the Contribution guide.
 
+:star: The project is open to any kind of contribution. If you want to add a new publicly available dataset, publish your own data, make an update or request something welcome to the Contribution guide.
+<p align="center">
+<a href="covid19_datasets.md">What are COVID19 datasets?</a>&nbsp;&nbsp;&nbsp;
+<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/immunomind">Twitter</a>&nbsp;&nbsp;&nbsp;
+</p>
 # Brief table
 | Data public status           | Data type   | Article title                                                                                                                                          |
 |:-----------------------------|:------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
