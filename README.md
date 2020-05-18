@@ -1,6 +1,6 @@
-# Problem
-There is no single resource for single-cell or AIRR datasets for COVID-19 patients.
-
+# COVID19 datasets
+🦠 List of publicly available datasets with single-cell (scRNAseq) andimmune repertoire (AIRR / RepSeq / immunosequencing) data of COVID-19 patients with SARS-CoV-2 infection. The repository is regularly updated with the community help.
+:star: The project is open to any kind of contribution. If you want to add a new publicly available dataset, publish your own data, make an update or request something welcome to the Contribution guide.
 
 # Brief table
 | Data public status           | Data type   | Article title                                                                                                                                          |
@@ -107,6 +107,6 @@ The research findings will be shared via an open access data-set so others can l
 
 
 
-# Field description
-
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
