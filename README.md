@@ -68,7 +68,7 @@
 <br/>
 
 - <a name="4_long"></a>[:arrow_left: Back to table](#4_short)
-- [Microsoft and Adaptive Biotechnologies are studying how the human immune system reacts to the coronavirus: MSNBC](Not available)
+- [Microsoft and Adaptive Biotechnologies are studying how the human immune system reacts to the coronavirus: MSNBC](https://www.cnbc.com/2020/03/20/microsoft-adaptive-studying-coronavirus-immune-system-reaction.html)
   - **Data public availability:** :question: Pending
   - **Data type:** AIRR
   - **Source type:** Website
@@ -92,7 +92,7 @@ The research findings will be shared via an open access data-set so others can l
 <br/>
 
 - <a name="6_long"></a>[:arrow_left: Back to table](#6_short)
-- [New Single-Cell Technologies Help Scientists Understand COVID-19 Disease Progression](Not available)
+- [New Single-Cell Technologies Help Scientists Understand COVID-19 Disease Progression](https://chanzuckerberg.com/newsroom/)
   - **Data public availability:** :question: Pending
   - **Data type:** scRNAseq
   - **Source type:** Website
@@ -116,5 +116,5 @@ The research findings will be shared via an open access data-set so others can l
 
 
 # License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
