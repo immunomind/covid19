@@ -1,4 +1,4 @@
-# COVID19 datasets
+# COVID19 dataset list
 
 [![Follow](https://img.shields.io/twitter/follow/immunomind.svg?style=social)](https://twitter.com/intent/follow?screen_name=immunomind)
 
