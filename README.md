@@ -2,7 +2,7 @@
 
 [![Follow](https://img.shields.io/twitter/follow/immunomind.svg?style=social)](https://twitter.com/intent/follow?screen_name=immunomind)
 
-🦠 List of publicly available datasets with single-cell (scRNAseq) and immune repertoire (AIRR / RepSeq / immunosequencing) data of COVID-19 patients with SARS-CoV-2 infection. The repository is regularly updated with the community help.
+🦠 List of publicly available datasets with single-cell (scRNAseq) and immune repertoire (AIRR / RepSeq / immunosequencing) data of COVID-19 patients with SARS-CoV-2 infection. The repository is regularly updated with the community help and is managed by [Immunarch](https://immunarch.com/) team. You can always write an email to [Support](mailto:support@immunomind.io).
 
 :star: The project is open to any kind of contribution. If you want to add a new publicly available dataset, publish your own data, make an update, request something then proceed to the [Contribution guide](contributing.md).
 
