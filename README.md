@@ -9,7 +9,7 @@
 <p align="center">
     <a href="covid19datasets.md">What are COVID19 datasets?</a>&nbsp;&nbsp;&nbsp;
     <a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-    <a href="mailto:support@immunomind.io">Support mail</a>
+    <a href="mailto:support@immunomind.io">Support</a>&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/immunomind/immunarch">Immunarch package</a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/immunomind">Twitter</a>&nbsp;&nbsp;&nbsp;
     </p>
