@@ -1,20 +1,19 @@
 [![Follow](https://img.shields.io/twitter/follow/immunomind.svg?style=social)](https://twitter.com/intent/follow?screen_name=immunomind)
 
 # COVID19 dataset list
-
 🦠 List of publicly available datasets with single-cell (scRNAseq) and immune repertoire (AIRR / RepSeq / immunosequencing) data of COVID-19 patients with SARS-CoV-2 infection. The repository is regularly updated with the community help and is managed by [ImmunoMind](https://immunarch.com/) team.
 
-:star: The project is open to any kind of contribution. If you want to add a new publicly available dataset, publish your own data, make an update, request something then proceed to the [Contribution guide](contributing.md).
+:star: The project is open to any kind of contribution. If you want to add a new publicly available dataset, request or ask something please proceed to the [Contribution guide](contributing.md).
+
+🧬 The T-cell / antibody immune repertoire data could be analyzed with [Immunarch](https://github.com/immunomind/immunarch). The scRNAseq data could be analyzed with [Single cell Variational Inference](https://github.com/YosefLab/scVI) and [Seurat](https://github.com/satijalab/seurat).
 
 <p align="center">
-    <a href="covid19datasets.md">What are COVID19 datasets?</a>&nbsp;&nbsp;&nbsp;
+    <a href="#dataset-list">Dataset list</a>&nbsp;&nbsp;&nbsp;
+    <a href="#datasets-in-details">Datasets in details</a>&nbsp;&nbsp;&nbsp;
     <a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-    <a href="mailto:support@immunomind.io">Support</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/immunomind/immunarch">Immunarch package</a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/immunomind">Twitter</a>&nbsp;&nbsp;&nbsp;
     </p>
 
-        
 # Dataset list
 | Data public availability     | Data type   | Publication title                                                                                                                                      |
 |:-----------------------------|:------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
