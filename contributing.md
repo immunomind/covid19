@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# Contribution guide
 :star: The project is open to any kind of contribution. The repository is regularly updated with the community help and is managed by [Immunarch](https://immunarch.com/) team. You can always write an email to [Support](mailto:support@immunomind.io) at support@immunomind.io.
 
 If you have something to contribute to COVID19 dataset list, this is how you do it.
