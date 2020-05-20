@@ -16,5 +16,5 @@ If you want to correct an outdated information or inaccuracy, proceed to [Issues
 ## I have an idea
 If you want to suggest an improvement or an idea, proceed to [Issues](https://github.com/immunomind/covid19/issues) create a new issue with **Feature request** template.
 
-## Non of the above is suitable for me
-If non of the above is suitable, then you can always reach us via [Support](mailto:support@immunomind.io) at support@immunomind.io.
+## None of the above is suitable for me
+If none of the above is suitable, then you can always reach us via [Support](mailto:support@immunomind.io) at support@immunomind.io.
