@@ -3,11 +3,15 @@
 
 If you have something to contribute to COVID19 dataset list, this is how you do it.
 
-## Want to add a dataset
-TBD
+## I want to add a new publicly available dataset
+Click on [Issues](https://github.com/immunomind/covid19/issues) and proceed to Dataset request.
 
-## Found an outdated information or inaccuracy
-TBD
+## I found an outdated information or inaccuracy
+Click on [Issues](https://github.com/immunomind/covid19/issues) and proceed to Dataset request.
 
-## Have an idea
-TBD
+## I have an idea
+Click on [Issues](https://github.com/immunomind/covid19/issues) and proceed to Dataset request.
+
+## Non of the above is suitable for me
+You can always write an email to [Support](mailto:support@immunomind.io).
+
