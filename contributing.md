@@ -5,6 +5,7 @@ If you have something to contribute to COVID19 dataset list, this is how you do 
 
 ## I want to add a new publicly available dataset
 If you want to add a new publicly available dataset, proceed to [Issues](https://github.com/immunomind/covid19/issues) create a new issue with [Dataset request](https://github.com/immunomind/covid19/issues/new?template=dataset-request.md) template.
+
 Note that the dataset must be:
 - publicly available or announced to be available in future
 - the dataset must be related to single-cell (scRNAseq) or immune repertoire (AIRR / RepSeq / immunosequencing) 
