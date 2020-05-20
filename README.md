@@ -1,6 +1,6 @@
-# COVID19 dataset list
-
 [![Follow](https://img.shields.io/twitter/follow/immunomind.svg?style=social)](https://twitter.com/intent/follow?screen_name=immunomind)
+
+# COVID19 dataset list
 
 🦠 List of publicly available datasets with single-cell (scRNAseq) and immune repertoire (AIRR / RepSeq / immunosequencing) data of COVID-19 patients with SARS-CoV-2 infection. The repository is regularly updated with the community help and is managed by [ImmunoMind](https://immunarch.com/) team.
 
@@ -15,7 +15,7 @@
     </p>
 
         
-# Brief table
+# Dataset list
 | Data public availability     | Data type   | Publication title                                                                                                                                      |
 |:-----------------------------|:------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | :heavy_check_mark: Available | AIRR        | <a name="0_short"></a>[B cell clonal expansion and convergent antibody responses to SARS-CoV-2](#0_long)                                               |
@@ -27,7 +27,7 @@
 | :question: Pending           | scRNAseq    | <a name="6_short"></a>[New Single-Cell Technologies Help Scientists Understand COVID-19 Disease Progression](#6_long)                                  |
 | :question: Pending           | scRNAseq    | <a name="7_short"></a>[SARS‐CoV‐2 receptor ACE2 and TMPRSS2 are primarily expressed in bronchial transient secretory cells](#7_long)                   |
 
-# Descriptive list
+# Datasets in details
 - <a name="0_long"></a>[:arrow_left: Back to table](#0_short)
 - [B cell clonal expansion and convergent antibody responses to SARS-CoV-2](https://dx.doi.org/10.21203/rs.3.rs-27220/v1)
   - **Data public availability:** :heavy_check_mark: Available
