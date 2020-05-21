@@ -18,4 +18,3 @@ To suggest an improvement or an idea, please create a new issue using the [Impro
 
 ## None of the above is suitable for me
 If none of the above is suitable, then you can always reach us via [Support](mailto:support@immunomind.io) at support@immunomind.io.
-
