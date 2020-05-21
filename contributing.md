@@ -1,5 +1,5 @@
 # Contribution guide
-:star: The contribution to the project is warmly welcome. The repository is regularly updated with the community help and is managed by [Immunarch](https://immunarch.com/) team.
+:star: The contribution to the project is warmly welcome. The repository is regularly updated with the community help and is managed by [ImmunoMind](https://immunarch.com/) team.
 If you would like to contribute to COVID19 dataset list, here we describe how to do it with [Issues](https://github.com/immunomind/covid19/issues).
 
 ## Add a new dataset
