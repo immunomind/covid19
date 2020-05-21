@@ -28,7 +28,7 @@
 | :heavy_check_mark: Available | AIRR            | <a name="8_short"></a>[:arrow_right: Longitudinal high-throughput TCR repertoire profiling reveals the dynamics of T cell memory formation after mild COVID-19 infection](#8_long)                                    |
 | :heavy_check_mark: Available | scRNAseq + AIRR | <a name="9_short"></a>[:arrow_right: Potent neutralizing antibodies against SARS-CoV-2 identified by high-throughput single-cell sequencing of convalescent patients’ B cells](#9_long)                               |
 | :question: Pending           | scRNAseq        | <a name="10_short"></a>[:arrow_right: Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells](#10_long)                                                                        |
-| Upon request                 | scRNAseq + AIRR | <a name="11_short"></a>[:arrow_right: Tocilizumab treatment in severe COVID-19 patients attenuates the inflammatory storm incited by monocyte centric immune interactions revealed by single-cell analysis](#11_long) |
+| :email: Upon request         | scRNAseq + AIRR | <a name="11_short"></a>[:arrow_right: Tocilizumab treatment in severe COVID-19 patients attenuates the inflammatory storm incited by monocyte centric immune interactions revealed by single-cell analysis](#11_long) |
 | :heavy_check_mark: Available | scRNAseq + AIRR | <a name="12_short"></a>[:arrow_right: A molecular cell atlas of the human lung from single cell RNA sequencing](#12_long)                                                                                             |
 | :heavy_check_mark: Available | scRNAseq        | <a name="13_short"></a>[:arrow_right: Bulk and single-cell gene expression profiling of SARS-CoV-2 infected human cell lines identifies molecular targets for therapeutic intervention](#13_long)                     |
 | :heavy_check_mark: Available | AIRR            | <a name="14_short"></a>[:arrow_right: Immunologic perturbations in severe COVID-19/SARS-CoV-2 infection](#14_long)                                                                                                    |
@@ -160,7 +160,7 @@ The research findings will be shared via an open access data-set so others can l
 
 - <a name="11_long"></a>[:arrow_left: Back to the list](#11_short)
 - [Tocilizumab treatment in severe COVID-19 patients attenuates the inflammatory storm incited by monocyte centric immune interactions revealed by single-cell analysis](https://doi.org/10.1101/2020.04.08.029769)
-  - **Data public availability:** Upon request
+  - **Data public availability:** :email: Upon request
   - **Data type:** scRNAseq + AIRR
   - **Source type:** Publication
   - **Publication DOI:** https://doi.org/10.1101/2020.04.08.029769
