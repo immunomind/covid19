@@ -219,7 +219,6 @@ The research findings will be shared via an open access data-set so others can l
 The project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 # Terms of use
-This is a COVID19 research view of [ImmunoMind](https://immunomind.io) team. We provide the view freely and openly to the research and drug discovery community to support them in the battle against COVID19.
-This is a public resource and we encourage the COVID19 research community to [input](contributing.md).
+Intended for use for scientific research only and cannot be used for the provision of medical advice. Please seek advice from your doctor if you have any queries about health conditions or drug treatments.
 
 
