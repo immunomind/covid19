@@ -1,4 +1,5 @@
 [![Follow](https://img.shields.io/twitter/follow/immunomind.svg?style=social)](https://twitter.com/intent/follow?screen_name=immunomind)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=immunomind.covid19)
 
 <p align="center">
     <a href="#dataset-list">Dataset list</a>&nbsp;&nbsp;&nbsp;&nbsp;
