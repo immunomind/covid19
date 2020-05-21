@@ -1,9 +1,9 @@
 ,6
-Data public status,:question: Pending
-Article title,New Single-Cell Technologies Help Scientists Understand COVID-19 Disease Progression
+Data public availability,:question: Pending
+Publication title,New Single-Cell Technologies Help Scientists Understand COVID-19 Disease Progression
 Data type,scRNAseq
 Source type,Website
-Paper DOI,
-Article abstract,"Today, the Chan Zuckerberg Initiative (CZI) announced $750,000 in funding to support five distinct projects studying how COVID-19 progresses in patients at the level of individual cells and tissues. This work will generate some of the first single-cell biology datasets from donors infected by SARS-CoV2 and provide critical insights into how the virus infects humans, which cell types are involved, and how the disease progresses."
-Database,Pending
+Publication DOI,Not available
+Publication abstract\Press release,"Today, the Chan Zuckerberg Initiative (CZI) announced $750,000 in funding to support five distinct projects studying how COVID-19 progresses in patients at the level of individual cells and tissues. This work will generate some of the first single-cell biology datasets from donors infected by SARS-CoV2 and provide critical insights into how the virus infects humans, which cell types are involved, and how the disease progresses."
+Dataset link,Pending
 Sharing statement,https://chanzuckerberg.com/newsroom/

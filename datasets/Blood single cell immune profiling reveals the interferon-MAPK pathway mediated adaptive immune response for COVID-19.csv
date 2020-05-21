@@ -1,9 +1,9 @@
 ,5
-Data public status,:question: Pending
-Article title,Blood single cell immune profiling reveals the interferon-MAPK pathway mediated adaptive immune response for COVID-19
-Data type,AIRR
+Data public availability,:question: Pending
+Publication title,Blood single cell immune profiling reveals the interferon-MAPK pathway mediated adaptive immune response for COVID-19
+Data type,scRNAseq + AIRR
 Source type,Publication
-Paper DOI,https://doi.org/10.1101/2020.03.15.20033472
-Article abstract,"The coronavirus disease 2019 (COVID-19) outbreak is an ongoing global health emergence, but the pathogenesis remains unclear. We revealed blood cell immune response profiles using 5' mRNA, TCR and BCR V(D)J transcriptome analysis with single-cell resolution. Data from 134,620 PBMCs and 83,387 TCR and 12,601 BCR clones was obtained, and 56 blood cell subtypes and 23 new cell marker genes were identified from 16 participants. The number of specific subtypes of immune cells changed significantly when compared patients with controls. Activation of the interferon-MAPK pathway is the major defense mechanism, but MAPK transcription signaling is inhibited in cured patients. TCR and BCR V(D)J recombination is highly diverse in generating different antibodies against SARS-CoV-2. Therefore, the interferon-MAPK pathway and TCR- and BCR-produced antibodies play important roles in the COVID-19 immune response. Immune deficiency or immune over-response may result in the condition of patients with COVID-19 becoming critical or severe."
-Database,Pending
+Publication DOI,https://doi.org/10.1101/2020.03.15.20033472
+Publication abstract\Press release,"The coronavirus disease 2019 (COVID-19) outbreak is an ongoing global health emergence, but the pathogenesis remains unclear. We revealed blood cell immune response profiles using 5' mRNA, TCR and BCR V(D)J transcriptome analysis with single-cell resolution. Data from 134,620 PBMCs and 83,387 TCR and 12,601 BCR clones was obtained, and 56 blood cell subtypes and 23 new cell marker genes were identified from 16 participants. The number of specific subtypes of immune cells changed significantly when compared patients with controls. Activation of the interferon-MAPK pathway is the major defense mechanism, but MAPK transcription signaling is inhibited in cured patients. TCR and BCR V(D)J recombination is highly diverse in generating different antibodies against SARS-CoV-2. Therefore, the interferon-MAPK pathway and TCR- and BCR-produced antibodies play important roles in the COVID-19 immune response. Immune deficiency or immune over-response may result in the condition of patients with COVID-19 becoming critical or severe."
+Dataset link,Pending
 Sharing statement,https://www.medrxiv.org/node/73721.external-links.html

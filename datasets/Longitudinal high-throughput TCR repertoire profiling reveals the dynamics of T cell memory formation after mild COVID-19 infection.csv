@@ -1,0 +1,9 @@
+,8
+Data public availability,:heavy_check_mark: Available
+Publication title,Longitudinal high-throughput TCR repertoire profiling reveals the dynamics of T cell memory formation after mild COVID-19 infection
+Data type,AIRR
+Source type,Publication
+Publication DOI,https://doi.org/10.1101/2020.05.18.100545
+Publication abstract\Press release,"COVID-19 is a global pandemic caused by the SARS-CoV-2 coronavirus. T cell response is a critical part of both individual and herd immunity to SARS-CoV-2 and the efficacy of developed vaccines. However neither the dynamics and cross-reactivity of the SARS-CoV-2-specific T cell response nor the diversity of resulting immune memory are well understood. In this study we use longitudinal high-throughput T cell receptor sequencing to track changes in the T cell repertoire following two mild cases of COVID-19 infection. In both donors we identified SARS-CoV-2-responding CD4+ and CD8+ T cell clones. We describe characteristic motifs in TCR sequences of COVID-19-reactive clones, suggesting the existence of immunodominant epitopes. We show that in both donors the majority of infection-reactive clonotypes acquire memory phenotypes. Certain CD4+ clones were detected in the memory fraction at the pre-infection timepoint, suggesting participation of pre-existing cross-reactive memory T cells in the immune response to SARS-CoV-2."
+Dataset link,PRJNA633317
+Sharing statement,"Raw sequencing data are deposited to the Short ReadArchive  (SRA)  accession:   PRJNA633317.ProcessedTCRalpha  and  TCRbeta  repertoire  datasets,  resultingrepertoires of SARS-CoV-2-reactive clones, and raw datapreprocessing instructions can be accessed from:https://github.com/pogorely/Minervina_COVID."

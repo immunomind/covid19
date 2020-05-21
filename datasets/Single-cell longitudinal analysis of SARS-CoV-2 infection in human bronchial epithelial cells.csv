@@ -1,0 +1,9 @@
+,10
+Data public availability,:question: Pending
+Publication title,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells
+Data type,scRNAseq
+Source type,Publication
+Publication DOI,https://doi.org/10.1101/2020.05.06.081695
+Publication abstract\Press release,"SARS-CoV-2, the causative agent of COVID-19, has resulted in more than 3,000,000 infections and 200,000 deaths. There are currently no approved drugs or vaccines for the treatment or prevention of COVID-19. Enhanced understanding of SARS-CoV-2 infection and pathogenesis is critical for the development of therapeutics. To reveal insight into viral replication, cell tropism, and host-viral interactions of SARS-CoV-2 we performed single-cell RNA sequencing of experimentally infected human bronchial epithelial cells (HBECs) in air-liquid interface cultures over a time-course. This revealed novel polyadenylated viral transcripts and highlighted ciliated cells as the major target of infection, which we confirmed by electron microscopy. Over the course of infection, cell tropism of SARS-CoV-2 expands to other epithelial cell types including basal and club cells. Infection induces cell intrinsic expression of type I and type III IFNs and IL6 but not IL1. This results in expression of interferon stimulated genes in both infected and bystander cells. Here, we have conducted an in-depth analysis of SARS-CoV-2 infection in HBECs and provide a detailed characterization of genes, cell types, and cell state changes associated with the infection."
+Dataset link,Pending
+Sharing statement,"The scRNA-seq data will be made publicly available around two weeks after pre-print submission, to allow time for finalizing the manuscript. The data will be deposited in the NCBI Geo database."
