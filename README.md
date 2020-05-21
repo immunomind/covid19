@@ -23,7 +23,6 @@
 | :heavy_check_mark: Available  | scRNAseq        | <a name="13_short"></a>[:arrow_right: Bulk and single-cell gene expression profiling of SARS-CoV-2 infected human cell lines identifies molecular targets for therapeutic intervention](#13_long)                     |
 | :heavy_check_mark: Available  | scRNAseq        | <a name="15_short"></a>[:arrow_right: Identification of Candidate COVID-19 Therapeutics using hPSC-derived Lung Organoids](#15_long)                                                                                  |
 | :heavy_check_mark: Available  | AIRR            | <a name="0_short"></a>[:arrow_right: B cell clonal expansion and convergent antibody responses to SARS-CoV-2](#0_long)                                                                                                |
-| :heavy_check_mark: Available  | AIRR            | <a name="1_short"></a>[:arrow_right: The landscape of lung bronchoalveolar immune cells in COVID-19 revealed by single-cell RNA sequencing](#1_long)                                                                  |
 | :heavy_check_mark: Available  | AIRR            | <a name="8_short"></a>[:arrow_right: Longitudinal high-throughput TCR repertoire profiling reveals the dynamics of T cell memory formation after mild COVID-19 infection](#8_long)                                    |
 | :heavy_check_mark: Available  | AIRR            | <a name="14_short"></a>[:arrow_right: Immunologic perturbations in severe COVID-19/SARS-CoV-2 infection](#14_long)                                                                                                    |
 | :email: Upon request          | scRNAseq + AIRR | <a name="11_short"></a>[:arrow_right: Tocilizumab treatment in severe COVID-19 patients attenuates the inflammatory storm incited by monocyte centric immune interactions revealed by single-cell analysis](#11_long) |
@@ -32,6 +31,7 @@
 | :question: Pending            | scRNAseq        | <a name="6_short"></a>[:arrow_right: New Single-Cell Technologies Help Scientists Understand COVID-19 Disease Progression](#6_long)                                                                                   |
 | :question: Pending            | scRNAseq        | <a name="7_short"></a>[:arrow_right: SARS‐CoV‐2 receptor ACE2 and TMPRSS2 are primarily expressed in bronchial transient secretory cells](#7_long)                                                                    |
 | :question: Pending            | scRNAseq        | <a name="10_short"></a>[:arrow_right: Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells](#10_long)                                                                        |
+| :question: Pending            | AIRR            | <a name="1_short"></a>[:arrow_right: The landscape of lung bronchoalveolar immune cells in COVID-19 revealed by single-cell RNA sequencing](#1_long)                                                                  |
 | :question: Pending            | AIRR            | <a name="4_short"></a>[:arrow_right: Microsoft and Adaptive Biotechnologies are studying how the human immune system reacts to the coronavirus: MSNBC](#4_long)                                                       |
 
 # Datasets in details
@@ -65,7 +65,7 @@
   - **Publication DOI:** https://doi.org/10.1101/2020.01.26.919985
   - **Publication abstract/Press release:** A novel coronavirus SARS-CoV-2 was identified in Wuhan, Hubei Province, China in December of 2019. According to WHO report, this new coronavirus has resulted in 76,392 confirmed infections and 2,348 deaths in China by 22 February, 2020, with additional patients being identified in a rapidly growing number internationally. SARS-CoV-2 was reported to share the same receptor, Angiotensin-converting enzyme 2 (ACE2), with SARS-CoV. Here based on the public database and the state-of-the-art single-cell RNA-Seq technique, we analyzed the ACE2 RNA expression profile in the normal human lungs. The result indicates that the ACE2 virus receptor expression is concentrated in a small population of type II alveolar cells (AT2). Surprisingly, we found that this population of ACE2-expressing AT2 also highly expressed many other genes that positively regulating viral entry, reproduction and transmission. This study provides a biological background for the epidemic investigation of the COVID-19, and could be informative for future anti-ACE2 therapeutic strategy development.
   - **Dataset link:** https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122960
-  - **Sharing statement:** Used public data
+  - **Sharing statement:** Not available
 <br/>
 
 - <a name="13_long"></a>[:arrow_left: Back to the list](#13_short)
@@ -98,18 +98,7 @@
   - **Publication DOI:** https://dx.doi.org/10.21203/rs.3.rs-27220/v1
   - **Publication abstract/Press release:** During virus infection B cells are critical for the production of antibodies and protective immunity. Establishment of a diverse antibody repertoire occurs by rearrangement of germline DNA at the immunoglobulin heavy and light chain loci to encode the membrane-bound form of antibodies, the B cell antigen receptor. Little is known about the B cells and antigen receptors stimulated by the novel human coronavirus SARS-CoV-2. Here we show that the human B cell compartment in patients with diagnostically confirmed SARS-CoV-2 and clinical COVID-19 is rapidly altered with the early recruitment of B cells expressing a limited subset of V genes, and extensive activation of IgG and IgA subclasses without significant somatic mutation. We detect expansion of B cell clones as well as convergent antibodies with highly similar sequences across SARS-CoV-2 patients, highlighting stereotyped naïve responses to this virus. A shared convergent B cell clonotype in SARS-CoV-2 infected patients was previously seen in patients with SARS. These findings offer molecular insights into shared features of human B cell responses to SARS-CoV-2 and other zoonotic spillover coronaviruses.
   - **Dataset link:** https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA628125
-  - **Sharing statement:** https://www.researchsquare.com/article/rs-27220/v1 
-<br/>
-
-- <a name="1_long"></a>[:arrow_left: Back to the list](#1_short)
-- [The landscape of lung bronchoalveolar immune cells in COVID-19 revealed by single-cell RNA sequencing](https://doi.org/10.1101/2020.02.23.20026690)
-  - **Public availability of data:** :heavy_check_mark: Available
-  - **Data type:** AIRR
-  - **Source type:** Publication
-  - **Publication DOI:** https://doi.org/10.1101/2020.02.23.20026690
-  - **Publication abstract/Press release:** The novel coronavirus SARS-CoV-2, etiological agent of recently named Coronavirus infected disease (COVID-19) by WHO, has caused more than 2, 000 deaths worldwide since its emergency in Wuhan City, Hubei province, China, in December, 2019. The symptoms of COVID-19 varied from modest, mild to acute respiratory distress syndrome (ARDS), and the latter of which is generally associated with deregulated immune cytokine production; however, we currently know little as to the interplay between the extent of clinical symptoms and the compositions of lung immune microenvironment. Here, we comprehensively characterized the lung immune microenvironment with the bronchoalveolar lavage fluid (BALF) from 3 severe and 3 mild COVID-19 patients and 8 previously reported healthy lung controls through single-cell RNA sequence (scRNA-seq) combined with TCR-seq. Our data shows that monocyte-derived FCN1+ macrophages, whereas notFABP4+ alveolar macrophages that represent a predominant macrophage subset in BALF from patients with mild diseases, overwhelm in the severely damaged lungs from patients with ARDS. These cells are highly inflammatory and enormous chemokine producers implicated in cytokine storm. Furthermore, the formation of tissue resident, highly expanded clonal CD8+ T cells in the lung microenvironment of mild symptom patients suggests a robust adaptive immune response connected to a better control of COVID-19. This study first reported the cellular atlas of lung bronchoalveolar immune microenvironment in COVID-19 patients at the single-cell resolution, and unveiled the potential immune mechanisms underlying disease progression and protection in COVID-19.
-  - **Dataset link:** https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA608742
-  - **Sharing statement:** https://www.medrxiv.org/node/72689.external-links.html
+  - **Sharing statement:** All data is available in the main text or the extended materials. The IGH repertoire data for this study have been deposited to SRA with accession number SUB7246339.
 <br/>
 
 - <a name="8_long"></a>[:arrow_left: Back to the list](#8_short)
@@ -153,7 +142,7 @@
   - **Publication DOI:** https://doi.org/10.1038/s41421-020-0168-9
   - **Publication abstract/Press release:** COVID-19, caused by SARS-CoV-2, has recently affected over 1,200,000 people and killed more than 60,000. The key immune cell subsets change and their states during the course of COVID-19 remain unclear. We sought to comprehensively characterize the transcriptional changes in peripheral blood mononuclear cells during the recovery stage of COVID-19 by single-cell RNA sequencing technique. It was found that T cells decreased remarkably, whereas monocytes increased in patients in the early recovery stage (ERS) of COVID-19. There was an increased ratio of classical CD14++ monocytes with high inflammatory gene expression as well as a greater abundance of CD14++IL1β+ monocytes in the ERS. CD4+ T cells and CD8+ T cells decreased significantly and expressed high levels of inflammatory genes in the ERS. Among the B cells, the plasma cells increased remarkably, whereas the naïve B cells decreased. Several novel B cell-receptor (BCR) changes were identified, such as IGHV3-23 and IGHV3-7, and isotypes (IGHV3-15, IGHV3-30, and IGKV3-11) previously used for virus vaccine development were confirmed. The strongest pairing frequencies, IGHV3-23-IGHJ4, indicated a monoclonal state associated with SARS-CoV-2 specificity, which had not been reported yet. Furthermore, integrated analysis predicted that IL-1β and M-CSF may be novel candidate target genes for inflammatory storm and that TNFSF13, IL-18, IL-2, and IL-4 may be beneficial for the recovery of COVID-19 patients. Our study provides the first evidence of an inflammatory immune signature in the ERS, suggesting COVID-19 patients are still vulnerable after hospital discharge. Identification of novel BCR signaling may lead to the development of vaccines and antibodies for the treatment of COVID-19.
   - **Dataset link:** Pending
-  - **Sharing statement:** https://www.nature.com/articles/s41421-020-0168-9#data-availability
+  - **Sharing statement:** The accession numbers for the sequencing raw data and processed data in this paper are GSA (Genome Sequence Archive in BIG Data Center, Beijing Institute of Genomics, Chinese Academy of Sciences): HRA000069 and EGA: EGAS00001003449, respectively. https://www.nature.com/articles/s41421-020-0168-9#data-availability
 <br/>
 
 - <a name="5_long"></a>[:arrow_left: Back to the list](#5_short)
@@ -164,18 +153,18 @@
   - **Publication DOI:** https://doi.org/10.1101/2020.03.15.20033472
   - **Publication abstract/Press release:** The coronavirus disease 2019 (COVID-19) outbreak is an ongoing global health emergence, but the pathogenesis remains unclear. We revealed blood cell immune response profiles using 5' mRNA, TCR and BCR V(D)J transcriptome analysis with single-cell resolution. Data from 134,620 PBMCs and 83,387 TCR and 12,601 BCR clones was obtained, and 56 blood cell subtypes and 23 new cell marker genes were identified from 16 participants. The number of specific subtypes of immune cells changed significantly when compared patients with controls. Activation of the interferon-MAPK pathway is the major defense mechanism, but MAPK transcription signaling is inhibited in cured patients. TCR and BCR V(D)J recombination is highly diverse in generating different antibodies against SARS-CoV-2. Therefore, the interferon-MAPK pathway and TCR- and BCR-produced antibodies play important roles in the COVID-19 immune response. Immune deficiency or immune over-response may result in the condition of patients with COVID-19 becoming critical or severe.
   - **Dataset link:** Pending
-  - **Sharing statement:** https://www.medrxiv.org/node/73721.external-links.html
+  - **Sharing statement:** All sequencing data will be deposited in a public database and can be accessed online through a web portal. https://www.medrxiv.org/node/73721.external-links.html
 <br/>
 
 - <a name="6_long"></a>[:arrow_left: Back to the list](#6_short)
-- [New Single-Cell Technologies Help Scientists Understand COVID-19 Disease Progression](https://chanzuckerberg.com/newsroom/)
+- [New Single-Cell Technologies Help Scientists Understand COVID-19 Disease Progression](https://chanzuckerberg.com/newsroom/new-single-cell-technologies-help-scientists-understand-covid-19-disease-progression/)
   - **Public availability of data:** :question: Pending
   - **Data type:** scRNAseq
   - **Source type:** Website
   - **Publication DOI:** Not available
   - **Publication abstract/Press release:** Today, the Chan Zuckerberg Initiative (CZI) announced $750,000 in funding to support five distinct projects studying how COVID-19 progresses in patients at the level of individual cells and tissues. This work will generate some of the first single-cell biology datasets from donors infected by SARS-CoV2 and provide critical insights into how the virus infects humans, which cell types are involved, and how the disease progresses.
   - **Dataset link:** Pending
-  - **Sharing statement:** https://chanzuckerberg.com/newsroom/
+  - **Sharing statement:** https://chanzuckerberg.com/newsroom/new-single-cell-technologies-help-scientists-understand-covid-19-disease-progression/
 <br/>
 
 - <a name="7_long"></a>[:arrow_left: Back to the list](#7_short)
@@ -186,7 +175,7 @@
   - **Publication DOI:** https://doi.org/10.15252/embj.20105114
   - **Publication abstract/Press release:** The SARS‐CoV‐2 pandemic affecting the human respiratory system severely challenges public health and urgently demands for increasing our understanding of COVID‐19 pathogenesis, especially host factors facilitating virus infection and replication. SARS‐CoV‐2 was reported to enter cells via binding to ACE2, followed by its priming by TMPRSS2. Here, we investigate ACE2 and TMPRSS2 expression levels and their distribution across cell types in lung tissue (twelve donors, 39,778 cells) and in cells derived from subsegmental bronchial branches (four donors, 17,521 cells) by single nuclei and single cell RNA sequencing, respectively. While TMPRSS2 is strongly expressed in both tissues, in the subsegmental bronchial branches ACE2 is predominantly expressed in a transient secretory cell type. Interestingly, these transiently differentiating cells show an enrichment for pathways related to RHO GTPase function and viral processes suggesting increased vulnerability for SARS‐CoV‐2 infection. Our data provide a rich resource for future investigations of COVID‐19 infection and pathogenesis.
   - **Dataset link:** Pending
-  - **Sharing statement:** https://www.embopress.org/doi/10.15252/embj.20105114#embj20105114-sec-0019-title
+  - **Sharing statement:** There are restrictions to the availability of the dataset due to potential risk of de‐identification of pseudonymized RNA sequencing data. Hence, the raw data will be available under controlled access in the following databases:      Single cell RNA sequencing data at European Genome‐Phenome Archive.     Single nuclei RNA sequencing data at European Genome‐Phenome Archive.  Further, our processed data can be accessed and mined through the following resources:      Count and metadata tables containing patient ID, sex, age, smoking status, cell type, and QC metrics for each cell:         FigShare: https://doi.org/10.6084/m9.figshare.11981034.v1.         Mendeley: https://data.mendeley.com/datasets/7r2cwbw44m/1.     Mineable single cell gene expression data at: https://digital.bihealth.org/ and at: https://eils-lung.cells.ucsc.edu.
 <br/>
 
 - <a name="10_long"></a>[:arrow_left: Back to the list](#10_short)
@@ -200,8 +189,19 @@
   - **Sharing statement:** The scRNA-seq data will be made publicly available around two weeks after pre-print submission, to allow time for finalizing the manuscript. The data will be deposited in the NCBI Geo database.
 <br/>
 
+- <a name="1_long"></a>[:arrow_left: Back to the list](#1_short)
+- [The landscape of lung bronchoalveolar immune cells in COVID-19 revealed by single-cell RNA sequencing](https://doi.org/10.1101/2020.02.23.20026690)
+  - **Public availability of data:** :question: Pending
+  - **Data type:** AIRR
+  - **Source type:** Publication
+  - **Publication DOI:** https://doi.org/10.1101/2020.02.23.20026690
+  - **Publication abstract/Press release:** The novel coronavirus SARS-CoV-2, etiological agent of recently named Coronavirus infected disease (COVID-19) by WHO, has caused more than 2, 000 deaths worldwide since its emergency in Wuhan City, Hubei province, China, in December, 2019. The symptoms of COVID-19 varied from modest, mild to acute respiratory distress syndrome (ARDS), and the latter of which is generally associated with deregulated immune cytokine production; however, we currently know little as to the interplay between the extent of clinical symptoms and the compositions of lung immune microenvironment. Here, we comprehensively characterized the lung immune microenvironment with the bronchoalveolar lavage fluid (BALF) from 3 severe and 3 mild COVID-19 patients and 8 previously reported healthy lung controls through single-cell RNA sequence (scRNA-seq) combined with TCR-seq. Our data shows that monocyte-derived FCN1+ macrophages, whereas notFABP4+ alveolar macrophages that represent a predominant macrophage subset in BALF from patients with mild diseases, overwhelm in the severely damaged lungs from patients with ARDS. These cells are highly inflammatory and enormous chemokine producers implicated in cytokine storm. Furthermore, the formation of tissue resident, highly expanded clonal CD8+ T cells in the lung microenvironment of mild symptom patients suggests a robust adaptive immune response connected to a better control of COVID-19. This study first reported the cellular atlas of lung bronchoalveolar immune microenvironment in COVID-19 patients at the single-cell resolution, and unveiled the potential immune mechanisms underlying disease progression and protection in COVID-19.
+  - **Dataset link:** https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA608742
+  - **Sharing statement:** Raw data will be available in GEO.
+<br/>
+
 - <a name="4_long"></a>[:arrow_left: Back to the list](#4_short)
-- [Microsoft and Adaptive Biotechnologies are studying how the human immune system reacts to the coronavirus: MSNBC](https://www.cnbc.com/2020/03/20/microsoft-adaptive-studying-coronavirus-immune-system-reaction.html)
+- [Microsoft and Adaptive Biotechnologies are studying how the human immune system reacts to the coronavirus: MSNBC](The research findings will be shared via an open access data-set so others can leverage it so develop better treatments for Covid-19. https://www.cnbc.com/2020/03/20/microsoft-adaptive-studying-coronavirus-immune-system-reaction.html)
   - **Public availability of data:** :question: Pending
   - **Data type:** AIRR
   - **Source type:** Website
@@ -210,7 +210,7 @@
 The companies are collecting anonymous blood samples from people who have been diagnosed with the disease and have subsequently recovered.
 The research findings will be shared via an open access data-set so others can leverage it so develop better treatments for Covid-19.
   - **Dataset link:** Pending
-  - **Sharing statement:** https://www.cnbc.com/2020/03/20/microsoft-adaptive-studying-coronavirus-immune-system-reaction.html
+  - **Sharing statement:** The research findings will be shared via an open access data-set so others can leverage it so develop better treatments for Covid-19. https://www.cnbc.com/2020/03/20/microsoft-adaptive-studying-coronavirus-immune-system-reaction.html
 <br/>
 
 
