@@ -11,5 +11,5 @@ about: I found an outdated information or inaccuracy
 <!-- Place here a clear description of what you expected to see. -->
 
 ## Additional context
-<!-- Add here any other context about the problem. -->
+<!-- Add here any other context  about the problem. -->
 
