@@ -1,0 +1,9 @@
+,8
+Public availability of data,:question: Pending
+Publication title,Potent neutralizing antibodies against SARS-CoV-2 identified by high-throughput single-cell sequencing of convalescent patients’ B cells
+Data type,scRNAseq + AIRR
+Source type,Publication
+Publication DOI,https://doi.org/10.1016/j.cell.2020.05.025
+Publication abstract/Press release,"The COVID-19 pandemic urgently needs therapeutic and prophylactic interventions. Here we report the rapid identification of SARS-CoV-2 neutralizing antibodies by high-throughput single-cell RNA and VDJ sequencing of antigen-enriched B cells from 60 convalescent patients. From 8,558 antigen-binding IgG1+ clonotypes, 14 potent neutralizing antibodies were identified with the most potent one, BD-368-2, exhibiting an IC50 of 1.2 ng/mL and 15 ng/mL against pseudotyped and authentic SARS-CoV-2, respectively. BD-368-2 also displayed strong therapeutic and prophylactic efficacy in SARS-CoV-2-infected hACE2-transgenic mice. Additionally, the 3.8Å Cryo-EM structure of a neutralizing antibody in complex with the spike-ectodomain trimer revealed the antibody’s epitope overlaps with the ACE2 binding site. Moreover, we demonstrated that SARS-CoV-2 neutralizing antibodies could be directly selected based on similarities of their predicted CDR3H structures to those of SARS-CoV neutralizing antibodies. Altogether, we showed that human neutralizing antibodies could be efficiently discovered by high-throughput single B-cell sequencing in response to pandemic infectious diseases."
+Dataset link,Pending
+Sharing statement,"Human antibody sequences are available on the European Genome-Phenome Archive (EGAS00001004412) upon publication in press. Material/Data Transfer Agreements, which allow the use of the antibody sequences for non-commercial purposes but not their disclosure to third parties, are needed to obtain the sequences by contacting the Data Access Committee."
