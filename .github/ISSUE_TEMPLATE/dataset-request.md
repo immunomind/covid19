@@ -2,7 +2,6 @@
 name: "\U0001F4DA Dataset request"
 about: I want to add a new publicly available dataset
 ---
-Data public availability,Publication title,Data type,Source type,Publication DOI,Publication abstract\Press release,Dataset link,Sharing statement
 ## 📚 Dataset description
 <!--A brief description of the dataset according to the provided template. -->
 
@@ -22,8 +21,8 @@ Source type:
 Publication DOI:
 <!--Publication DOI.-->
 
-Publication abstract\Press release:
-<!--Publication abstract\Press release.-->
+Publication abstract/Press release:
+<!--Publication abstract/Press release.-->
 
 Dataset link:
 <!--Dataset link.-->
