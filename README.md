@@ -18,25 +18,24 @@
 # Dataset list
 | Public availability of data   | Data type       | Publication title                                                                                                                                                                                                     |
 |:------------------------------|:----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| :heavy_check_mark: Available  | scRNAseq + AIRR | <a name="12_short"></a>[:arrow_right: A molecular cell atlas of the human lung from single cell RNA sequencing](#12_long)                                                                                             |
-| :heavy_check_mark: Available  | scRNAseq        | <a name="13_short"></a>[:arrow_right: Bulk and single-cell gene expression profiling of SARS-CoV-2 infected human cell lines identifies molecular targets for therapeutic intervention](#13_long)                     |
+| :heavy_check_mark: Available  | scRNAseq + AIRR | <a name="11_short"></a>[:arrow_right: A molecular cell atlas of the human lung from single cell RNA sequencing](#11_long)                                                                                             |
+| :heavy_check_mark: Available  | scRNAseq        | <a name="12_short"></a>[:arrow_right: Bulk and single-cell gene expression profiling of SARS-CoV-2 infected human cell lines identifies molecular targets for therapeutic intervention](#12_long)                     |
 | :heavy_check_mark: Available  | AIRR            | <a name="0_short"></a>[:arrow_right: B cell clonal expansion and convergent antibody responses to SARS-CoV-2](#0_long)                                                                                                |
-| :heavy_check_mark: Available  | AIRR            | <a name="8_short"></a>[:arrow_right: Longitudinal high-throughput TCR repertoire profiling reveals the dynamics of T cell memory formation after mild COVID-19 infection](#8_long)                                    |
+| :heavy_check_mark: Available  | AIRR            | <a name="7_short"></a>[:arrow_right: Longitudinal high-throughput TCR repertoire profiling reveals the dynamics of T cell memory formation after mild COVID-19 infection](#7_long)                                    |
 | :heavy_check_mark: Available  | AIRR            | <a name="1_short"></a>[:arrow_right: The landscape of lung bronchoalveolar immune cells in COVID-19 revealed by single-cell RNA sequencing](#1_long)                                                                  |
-| :email: Upon request          | scRNAseq + AIRR | <a name="11_short"></a>[:arrow_right: Tocilizumab treatment in severe COVID-19 patients attenuates the inflammatory storm incited by monocyte centric immune interactions revealed by single-cell analysis](#11_long) |
-| :question: Pending            | scRNAseq + AIRR | <a name="5_short"></a>[:arrow_right: Blood single cell immune profiling reveals the interferon-MAPK pathway mediated adaptive immune response for COVID-19](#5_long)                                                  |
-| :question: Pending            | scRNAseq + AIRR | <a name="3_short"></a>[:arrow_right: Immune cell profiling of COVID-19 patients in the recovery stage by single-cell sequencing](#3_long)                                                                             |
-| :question: Pending            | scRNAseq + AIRR | <a name="9_short"></a>[:arrow_right: Potent neutralizing antibodies against SARS-CoV-2 identified by high-throughput single-cell sequencing of convalescent patients’ B cells](#9_long)                               |
-| :question: Pending            | scRNAseq        | <a name="15_short"></a>[:arrow_right: Identification of Candidate COVID-19 Therapeutics using hPSC-derived Lung Organoids](#15_long)                                                                                  |
-| :question: Pending            | scRNAseq        | <a name="6_short"></a>[:arrow_right: New Single-Cell Technologies Help Scientists Understand COVID-19 Disease Progression](#6_long)                                                                                   |
-| :question: Pending            | scRNAseq        | <a name="7_short"></a>[:arrow_right: SARS‐CoV‐2 receptor ACE2 and TMPRSS2 are primarily expressed in bronchial transient secretory cells](#7_long)                                                                    |
-| :question: Pending            | scRNAseq        | <a name="10_short"></a>[:arrow_right: Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells](#10_long)                                                                        |
-| :question: Pending            | AIRR            | <a name="14_short"></a>[:arrow_right: Immunologic perturbations in severe COVID-19/SARS-CoV-2 infection](#14_long)                                                                                                    |
-| :question: Pending            | AIRR            | <a name="4_short"></a>[:arrow_right: Microsoft and Adaptive Biotechnologies are studying how the human immune system reacts to the coronavirus: MSNBC](#4_long)                                                       |
-| nan                           | scRNAseq        | <a name="2_short"></a>[:arrow_right: Single-cell RNA expression profiling of ACE2, the receptor of SARS-CoV-2](#2_long)                                                                                               |
+| :email: Upon request          | scRNAseq + AIRR | <a name="10_short"></a>[:arrow_right: Tocilizumab treatment in severe COVID-19 patients attenuates the inflammatory storm incited by monocyte centric immune interactions revealed by single-cell analysis](#10_long) |
+| :question: Pending            | scRNAseq + AIRR | <a name="4_short"></a>[:arrow_right: Blood single cell immune profiling reveals the interferon-MAPK pathway mediated adaptive immune response for COVID-19](#4_long)                                                  |
+| :question: Pending            | scRNAseq + AIRR | <a name="2_short"></a>[:arrow_right: Immune cell profiling of COVID-19 patients in the recovery stage by single-cell sequencing](#2_long)                                                                             |
+| :question: Pending            | scRNAseq + AIRR | <a name="8_short"></a>[:arrow_right: Potent neutralizing antibodies against SARS-CoV-2 identified by high-throughput single-cell sequencing of convalescent patients’ B cells](#8_long)                               |
+| :question: Pending            | scRNAseq        | <a name="14_short"></a>[:arrow_right: Identification of Candidate COVID-19 Therapeutics using hPSC-derived Lung Organoids](#14_long)                                                                                  |
+| :question: Pending            | scRNAseq        | <a name="5_short"></a>[:arrow_right: New Single-Cell Technologies Help Scientists Understand COVID-19 Disease Progression](#5_long)                                                                                   |
+| :question: Pending            | scRNAseq        | <a name="6_short"></a>[:arrow_right: SARS‐CoV‐2 receptor ACE2 and TMPRSS2 are primarily expressed in bronchial transient secretory cells](#6_long)                                                                    |
+| :question: Pending            | scRNAseq        | <a name="9_short"></a>[:arrow_right: Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells](#9_long)                                                                          |
+| :question: Pending            | AIRR            | <a name="13_short"></a>[:arrow_right: Immunologic perturbations in severe COVID-19/SARS-CoV-2 infection](#13_long)                                                                                                    |
+| :question: Pending            | AIRR            | <a name="3_short"></a>[:arrow_right: Microsoft and Adaptive Biotechnologies are studying how the human immune system reacts to the coronavirus: MSNBC](#3_long)                                                       |
 
 # Datasets in details
-- <a name="12_long"></a>[:arrow_left: Back to the list](#12_short)
+- <a name="11_long"></a>[:arrow_left: Back to the list](#11_short)
 - [A molecular cell atlas of the human lung from single cell RNA sequencing](https://doi.org/10.1101/742320)
   - **Public availability of data:** :heavy_check_mark: Available
   - **Data type:** scRNAseq + AIRR
@@ -47,7 +46,7 @@
   - **Sharing statement:** Counts/UMI tables, cellular metadata, Seurat objects, and scanpy objects are available on Synapse (accession syn21041850). The data can be explored in a browser using cellxgene at https://hlca.ds.czbiohub.org/. Code for demultiplexing counts/UMI tables, clustering, annotation, and other downstream analyses are available on GitHub (https://github.com/krasnowlab/HLCA). Human sequencing data will be available by data access agreement on the European Genome-phenome Archive (EGA) upon publication of this manuscript. Mouse sequencing data will be available on the National Institute of Health’s Sequence Read Archive (SRA) also upon publication of this manuscript.
 <br/>
 
-- <a name="13_long"></a>[:arrow_left: Back to the list](#13_short)
+- <a name="12_long"></a>[:arrow_left: Back to the list](#12_short)
 - [Bulk and single-cell gene expression profiling of SARS-CoV-2 infected human cell lines identifies molecular targets for therapeutic intervention](https://doi.org/10.1101/2020.05.05.079194)
   - **Public availability of data:** :heavy_check_mark: Available
   - **Data type:** scRNAseq
@@ -69,7 +68,7 @@
   - **Sharing statement:** All data is available in the main text or the extended materials. The IGH repertoire data for this study have been deposited to SRA with accession number SUB7246339.
 <br/>
 
-- <a name="8_long"></a>[:arrow_left: Back to the list](#8_short)
+- <a name="7_long"></a>[:arrow_left: Back to the list](#7_short)
 - [Longitudinal high-throughput TCR repertoire profiling reveals the dynamics of T cell memory formation after mild COVID-19 infection](https://doi.org/10.1101/2020.05.18.100545)
   - **Public availability of data:** :heavy_check_mark: Available
   - **Data type:** AIRR
@@ -91,7 +90,7 @@
   - **Sharing statement:** Raw data will be available in GEO.
 <br/>
 
-- <a name="11_long"></a>[:arrow_left: Back to the list](#11_short)
+- <a name="10_long"></a>[:arrow_left: Back to the list](#10_short)
 - [Tocilizumab treatment in severe COVID-19 patients attenuates the inflammatory storm incited by monocyte centric immune interactions revealed by single-cell analysis](https://doi.org/10.1101/2020.04.08.029769)
   - **Public availability of data:** :email: Upon request
   - **Data type:** scRNAseq + AIRR
@@ -102,7 +101,7 @@
   - **Sharing statement:** We are uploading the scRNA-seq data of PBMCs from the 2 severe COVID-19 patients to the Genome Sequence Archive at BIG Data Center and the accession number will be available upon request.
 <br/>
 
-- <a name="5_long"></a>[:arrow_left: Back to the list](#5_short)
+- <a name="4_long"></a>[:arrow_left: Back to the list](#4_short)
 - [Blood single cell immune profiling reveals the interferon-MAPK pathway mediated adaptive immune response for COVID-19](https://doi.org/10.1101/2020.03.15.20033472)
   - **Public availability of data:** :question: Pending
   - **Data type:** scRNAseq + AIRR
@@ -113,7 +112,7 @@
   - **Sharing statement:** All sequencing data will be deposited in a public database and can be accessed online through a web portal. https://www.medrxiv.org/node/73721.external-links.html
 <br/>
 
-- <a name="3_long"></a>[:arrow_left: Back to the list](#3_short)
+- <a name="2_long"></a>[:arrow_left: Back to the list](#2_short)
 - [Immune cell profiling of COVID-19 patients in the recovery stage by single-cell sequencing](https://doi.org/10.1038/s41421-020-0168-9)
   - **Public availability of data:** :question: Pending
   - **Data type:** scRNAseq + AIRR
@@ -124,7 +123,7 @@
   - **Sharing statement:** The accession numbers for the sequencing raw data and processed data in this paper are GSA (Genome Sequence Archive in BIG Data Center, Beijing Institute of Genomics, Chinese Academy of Sciences): HRA000069 and EGA: EGAS00001003449, respectively. https://www.nature.com/articles/s41421-020-0168-9#data-availability
 <br/>
 
-- <a name="9_long"></a>[:arrow_left: Back to the list](#9_short)
+- <a name="8_long"></a>[:arrow_left: Back to the list](#8_short)
 - [Potent neutralizing antibodies against SARS-CoV-2 identified by high-throughput single-cell sequencing of convalescent patients’ B cells](https://doi.org/10.1016/j.cell.2020.05.025)
   - **Public availability of data:** :question: Pending
   - **Data type:** scRNAseq + AIRR
@@ -135,7 +134,7 @@
   - **Sharing statement:** Human antibody sequences are available on the European Genome-Phenome Archive (EGAS00001004412) upon publication in press. Material/Data Transfer Agreements, which allow the use of the antibody sequences for non-commercial purposes but not their disclosure to third parties, are needed to obtain the sequences by contacting the Data Access Committee.
 <br/>
 
-- <a name="15_long"></a>[:arrow_left: Back to the list](#15_short)
+- <a name="14_long"></a>[:arrow_left: Back to the list](#14_short)
 - [Identification of Candidate COVID-19 Therapeutics using hPSC-derived Lung Organoids](https://doi.org/10.1101/2020.05.05.079095)
   - **Public availability of data:** :question: Pending
   - **Data type:** scRNAseq
@@ -146,7 +145,7 @@
   - **Sharing statement:** RNA-seq data is available from the GEO repository database with accession number GSE148697. Update: Accession "GSE148697" is currently private and is scheduled to be released on Jan 01, 2021.
 <br/>
 
-- <a name="6_long"></a>[:arrow_left: Back to the list](#6_short)
+- <a name="5_long"></a>[:arrow_left: Back to the list](#5_short)
 - [New Single-Cell Technologies Help Scientists Understand COVID-19 Disease Progression](https://chanzuckerberg.com/newsroom/new-single-cell-technologies-help-scientists-understand-covid-19-disease-progression/)
   - **Public availability of data:** :question: Pending
   - **Data type:** scRNAseq
@@ -157,7 +156,7 @@
   - **Sharing statement:** https://chanzuckerberg.com/newsroom/new-single-cell-technologies-help-scientists-understand-covid-19-disease-progression/
 <br/>
 
-- <a name="7_long"></a>[:arrow_left: Back to the list](#7_short)
+- <a name="6_long"></a>[:arrow_left: Back to the list](#6_short)
 - [SARS‐CoV‐2 receptor ACE2 and TMPRSS2 are primarily expressed in bronchial transient secretory cells](https://doi.org/10.15252/embj.20105114)
   - **Public availability of data:** :question: Pending
   - **Data type:** scRNAseq
@@ -168,7 +167,7 @@
   - **Sharing statement:** There are restrictions to the availability of the dataset due to potential risk of de‐identification of pseudonymized RNA sequencing data. Hence, the raw data will be available under controlled access in the following databases:      Single cell RNA sequencing data at European Genome‐Phenome Archive.     Single nuclei RNA sequencing data at European Genome‐Phenome Archive.  Further, our processed data can be accessed and mined through the following resources:      Count and metadata tables containing patient ID, sex, age, smoking status, cell type, and QC metrics for each cell:         FigShare: https://doi.org/10.6084/m9.figshare.11981034.v1.         Mendeley: https://data.mendeley.com/datasets/7r2cwbw44m/1.     Mineable single cell gene expression data at: https://digital.bihealth.org/ and at: https://eils-lung.cells.ucsc.edu.
 <br/>
 
-- <a name="10_long"></a>[:arrow_left: Back to the list](#10_short)
+- <a name="9_long"></a>[:arrow_left: Back to the list](#9_short)
 - [Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells](https://doi.org/10.1101/2020.05.06.081695)
   - **Public availability of data:** :question: Pending
   - **Data type:** scRNAseq
@@ -179,7 +178,7 @@
   - **Sharing statement:** The scRNA-seq data will be made publicly available around two weeks after pre-print submission, to allow time for finalizing the manuscript. The data will be deposited in the NCBI Geo database.
 <br/>
 
-- <a name="14_long"></a>[:arrow_left: Back to the list](#14_short)
+- <a name="13_long"></a>[:arrow_left: Back to the list](#13_short)
 - [Immunologic perturbations in severe COVID-19/SARS-CoV-2 infection](https://doi.org/10.1101/2020.05.18.101717)
   - **Public availability of data:** :question: Pending
   - **Data type:** AIRR
@@ -190,7 +189,7 @@
   - **Sharing statement:** Data and materials availability: All data associated with this study are present in the paper or the Supplementary Materials. The immunoglobulin heavy chain sequencing data is being submitted in an AIRR-compliant manner to SRA under PRJNA630455.
 <br/>
 
-- <a name="4_long"></a>[:arrow_left: Back to the list](#4_short)
+- <a name="3_long"></a>[:arrow_left: Back to the list](#3_short)
 - [Microsoft and Adaptive Biotechnologies are studying how the human immune system reacts to the coronavirus: MSNBC](The research findings will be shared via an open access data-set so others can leverage it so develop better treatments for Covid-19. https://www.cnbc.com/2020/03/20/microsoft-adaptive-studying-coronavirus-immune-system-reaction.html)
   - **Public availability of data:** :question: Pending
   - **Data type:** AIRR
@@ -203,16 +202,6 @@ The research findings will be shared via an open access data-set so others can l
   - **Sharing statement:** The research findings will be shared via an open access data-set so others can leverage it so develop better treatments for Covid-19. https://www.cnbc.com/2020/03/20/microsoft-adaptive-studying-coronavirus-immune-system-reaction.html
 <br/>
 
-- <a name="2_long"></a>[:arrow_left: Back to the list](#2_short)
-- [Single-cell RNA expression profiling of ACE2, the receptor of SARS-CoV-2](https://doi.org/10.1101/2020.01.26.919985)
-  - **Public availability of data:** nan
-  - **Data type:** scRNAseq
-  - **Source type:** Publication
-  - **Publication DOI:** https://doi.org/10.1101/2020.01.26.919985
-  - **Publication abstract/Press release:** A novel coronavirus SARS-CoV-2 was identified in Wuhan, Hubei Province, China in December of 2019. According to WHO report, this new coronavirus has resulted in 76,392 confirmed infections and 2,348 deaths in China by 22 February, 2020, with additional patients being identified in a rapidly growing number internationally. SARS-CoV-2 was reported to share the same receptor, Angiotensin-converting enzyme 2 (ACE2), with SARS-CoV. Here based on the public database and the state-of-the-art single-cell RNA-Seq technique, we analyzed the ACE2 RNA expression profile in the normal human lungs. The result indicates that the ACE2 virus receptor expression is concentrated in a small population of type II alveolar cells (AT2). Surprisingly, we found that this population of ACE2-expressing AT2 also highly expressed many other genes that positively regulating viral entry, reproduction and transmission. This study provides a biological background for the epidemic investigation of the COVID-19, and could be informative for future anti-ACE2 therapeutic strategy development.
-  - **Dataset link:** https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi
-  - **Sharing statement:** Not available
-<br/>
 
 
 # License
@@ -220,3 +209,5 @@ The project is licensed under the MIT License - see the [LICENSE](LICENSE) file 
 
 # Terms of use
 Intended for use for scientific research only and cannot be used for the provision of medical advice. Please seek advice from your doctor if you have any queries about health conditions or drug treatments.
+
+
